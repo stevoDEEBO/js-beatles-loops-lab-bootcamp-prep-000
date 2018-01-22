@@ -10,7 +10,9 @@ function theBeatlesPlay (musicians, instruments){
 
 function johnLennonFacts(facts) {
   var jLFacts = []
-  while jlFacts[]
+  while jlFacts[key] != undefined {
+    
+  }
   return jLFacts
 }
 
