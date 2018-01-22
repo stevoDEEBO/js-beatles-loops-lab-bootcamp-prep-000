@@ -12,9 +12,10 @@ function johnLennonFacts(facts) {
   var jLFacts = []
   let i = 0
   while (i < facts.length) {
-    jLFacts.push() = '$facts[i]!!!'
+    jLFacts.push('$facts[i]!!!')
+    i++
   }
-  return facts
+  return jLFacts
 }
 
 function iLovetheBeatles (number) {
